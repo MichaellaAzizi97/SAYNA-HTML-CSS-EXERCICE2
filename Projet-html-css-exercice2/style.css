@@ -1,0 +1,153 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+  
+}
+.header{
+    background-color:#27242b ;
+    border-bottom: #322f36 solid 1px;
+}
+.onglet img{
+    margin-left: 10px;
+    width: 250px;
+}
+
+.onglet a{
+    text-decoration: none;
+}
+.autre{
+    text-decoration: underline;
+    color: #3d9f96;
+}
+.onglet{
+    display: flex;
+    justify-content: center;
+}
+.blanc{
+    color: white;
+}
+hr{
+    background-color: #27242b ;
+}
+.topnav
+{
+    background-color: #27242b;
+    color: #fff;
+    text-align: center;
+    
+}
+.Voary{
+    margin-top: 0px;
+}
+h3
+{
+    color: #3d9f96;
+}
+.icone
+{  background-color: #f7f7f7;
+   text-align: center;
+    padding: 3% 0% 3% 0%;
+    
+}
+.icone img
+{
+    margin: 0% 2% 2% 2%;
+}
+.texte
+{
+    text-align: center;
+}
+.flex {
+    display: flex;
+    background-image: url(assets/img/map_bg.png);
+    justify-content: space-around;
+}
+.A{
+    background-color: #27242b;
+    color: #fff;
+    text-align: center;
+}
+.B{
+    background-color: #f7f7f7;
+    color: #000;
+    padding: 5%;
+}
+.C{
+    display: flex;
+    justify-content: center;
+}
+.D{
+    background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+}
+#d1{
+    color:  #ababab;
+}
+.D h2{
+    color: #000;
+}
+button{
+    border: none;
+    color: #fff;
+    background-color: #3d9f96;
+    border-radius: 50px;
+    width: 120px;
+    height: 40px;
+    margin-bottom: 50px;
+}
+#d2{
+    background: url(assets/img/dzdzd.png);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    width: 50%;
+}
+#d3{
+    width: 50%;
+    text-align: left;
+}
+#d4{margin-left: -152px;
+    text-align: left;
+}
+.E{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    color: #000;
+}
+.F
+{
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: space-around;
+}
+.F img
+{
+    width: 250px;
+    
+}
+footer
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#play{
+    position: sticky;
+    margin-top: 0px;
+    margin-left: -157px;
+    margin-bottom: 165px;
+}
+.gauche{
+    text-align: left;
+}
+.gris{
+    color: #ababab;
+}
+#play1{
+    position: sticky;
+    margin-top: 0px;
+    margin-left: 138px;
+    margin-bottom: -89px;
+}
